@@ -1,0 +1,27 @@
+.weaselword-*:hover {
+}
+
+.weaselword-puffery {
+  background-color: teal;
+  content: "Puffery: Peacocking, not facts";
+}
+
+.weaselword-contentious-label { 
+  background-color: red;
+  content: "Contentious Label: Contentious opinion, not facts";
+}
+
+.weaselword-unsupported-attributions{
+  background-color: green;
+  content: "According to whom?";
+}
+
+.weaselword-expressions-of-doubt {
+  background-color: yellow;
+  content: "Intended to cast doubt, not inform";
+}
+
+.weaselword-synonym-for-said{
+  background-color: skyblue;
+  content: "Potentially implies something is true rather than simply claimed";
+}
